@@ -1,0 +1,18 @@
+{
+  "name": "janiparse",
+  "version": "1.0.0",
+  "description": "Joins to CSVs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naba",
+  "license": "ISC",
+  "dependencies": {
+    "babyparse": "^0.4.6",
+    "command-line-args": "^3.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.2"
+  }
+}
